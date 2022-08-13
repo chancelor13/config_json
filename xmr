@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": null,
+            "url": "ethash.unmineable.com:3333",
+            "user": "42kNhuQvXeRa4KhefCZAE9NuqYN2Tb1WgCP16DCxDAyzPGQXmTFsijZ6TLxbjfD5EbEo77mzFWYqXJUfSZwFsJCwLqJfx9E",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
